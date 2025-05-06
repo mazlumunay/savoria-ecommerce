@@ -2,8 +2,8 @@
 
 A responsive online store featuring an intuitive product catalog with advanced filtering, a secure checkout process, and an interactive wishlist for an enhanced user experience.
 
-[![Live Demo](https://img.shields.io/badge/TRY%20IT-LIVE%20DEMO-brightgreen)](https://mazlumunay.github.io/diceRollingProject/)
-![GitHub last commit](https://img.shields.io/github/last-commit/mazlumunay/diceRollingProject)
+[![Live Demo](https://img.shields.io/badge/TRY%20IT-LIVE%20DEMO-brightgreen)](https://savoria-ecommerce-2bw9.onrender.com/)
+![GitHub last commit](https://img.shields.io/github/last-commit/mazlumunay/savoria-ecommerce)
 
 ## Features
 
