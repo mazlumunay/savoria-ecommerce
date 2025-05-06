@@ -192,7 +192,7 @@ if (isset($_SESSION["username"]) && !empty($_SESSION["username"])) {
       </div>
     </div>
     <div class="footer__copyright">
-      <p>Savoria&copy; 2023, all rights reserved</p>
+      <p>Savoria&copy; 2025, all rights reserved</p>
     </div>
   </footer>
 </body>
