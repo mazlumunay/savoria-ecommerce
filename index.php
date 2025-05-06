@@ -1,6 +1,7 @@
 <?php
 // Start the session
 session_start();
+
 if (isset($_SESSION["username"]) && !empty($_SESSION["username"])) {
   // Set the link URL and text based on the session variable
   $linkUrl = "index.php"; // Example link
