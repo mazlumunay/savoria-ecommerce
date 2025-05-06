@@ -5,6 +5,9 @@ A responsive online store featuring an intuitive product catalog with advanced f
 [![Live Demo](https://img.shields.io/badge/TRY%20IT-LIVE%20DEMO-brightgreen)](https://savoria-ecommerce-2bw9.onrender.com/)
 ![GitHub last commit](https://img.shields.io/github/last-commit/mazlumunay/savoria-ecommerce)
 
+## Screenshot
+![Savoria Ecommerce](./img/savoria-ecommerce.png)
+
 ## Features
 
 - Responsive design for all devices
